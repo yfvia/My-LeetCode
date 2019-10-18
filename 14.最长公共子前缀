@@ -1,5 +1,5 @@
 //最长公共子前缀，java实现O(s)
-
+//["flower","flow","flight"]
 class Solution {
     public String longestCommonPrefix(String[] strs) {
     	
